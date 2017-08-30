@@ -37,7 +37,7 @@ You can also run travis-build.sh with one of:
     
 All builds happen in build/bitcoin-HOSTNAME_STRING
 
-To issue a build with a different arch/config combo, you need to do a *clean*:
+To issue a build again, you need to do a *clean*:
 
     travis-build.sh clean
     
