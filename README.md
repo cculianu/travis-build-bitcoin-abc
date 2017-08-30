@@ -10,7 +10,8 @@ Installation Instructions
 
 1. Copy ./travis/ to your home directory (using cp -fpvra travis ~/)
 2. Put ~/travis/travis-build.sh in your PATH somehow.
-3. Finally do:
+
+Finally do:
 
     cd /path/to/bitcoin-abc
     travis-build linux
