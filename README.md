@@ -1,4 +1,6 @@
-# travis-build-bitcoin-abc
+# Calin's Travis Worakalike Build Scripts for Bitcoin ABC
+
+Quick and dirty build scripts for Bitcoin ABC.  Nasty but gets the job done.  YMMV.  Don't yell at me if it doesn't work for you.  Worksforme.  :)
 
 This is only verified to work on Ubuntu 14.04 and Ubuntu 17.04.  
 
