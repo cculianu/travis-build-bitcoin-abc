@@ -55,7 +55,7 @@ listed in ~/travis/travis-osx11.sh using apt-get, it should build:
     travis-build.sh osx11
     
 
-Any questions or comments find me, Calin Culianu (NilagTheGrim) either on
+Any questions or comments find me, Calin Culianu (NilacTheGrim) either on
 slack or via email: calin.culianu@gmail.com
 
 
