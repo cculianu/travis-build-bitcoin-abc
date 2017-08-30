@@ -14,7 +14,7 @@ Installation Instructions
 Finally do:
 
     cd /path/to/bitcoin-abc
-    travis-build linux
+    travis-build.sh linux
 
 If it fails, you may need to install some required packages.  See ~/travis/travis-linux.sh under the PACKAGES= line.
 
