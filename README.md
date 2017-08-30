@@ -39,7 +39,7 @@ To issue a build with a different arch/config combo, you need to do a *clean*:
 
     travis-build.sh clean
     
-Advanced -- if you are coding and want to not rebuild everything just what changed in src/whatever.cpp (have it be copied to build/bitcoin-HOST/src/whatever.cpp automaticall), issue:
+Advanced -- if you are coding and want to not rebuild everything just what changed in src/whatever.cpp be copied to build/bitcoin-HOST/src/whatever.cpp automatically, issue:
 
     travis-build.sh update
 
